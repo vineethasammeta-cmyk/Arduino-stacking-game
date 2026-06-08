@@ -9,3 +9,7 @@ Components Used:
 -Jumper wires & Breadboard 
 -Plastic box for casing
 
+## Game Preview
+
+[Stacking Game](Stacking-Game-image.jpg)
+[Stacking Game](Stacking-Game-Video.mp4)
